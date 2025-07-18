@@ -1,0 +1,1 @@
+A Julia-based toolkit for visualizing standard MATPOWER test cases with PowerPlots.jl. Simply drop `.m` files into the `cases/` folder, run `cases_plot_main.jl`, and obtain publication-ready PNG diagrams in `pictures/`. Ideal for power-system researchers and educators who need quick, reproducible network plots without MATLAB.
